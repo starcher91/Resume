@@ -1,3 +1,11 @@
 ﻿body {
     font-family: 'Roboto', sans-serif;
 }
+
+span {
+    font-size:small;
+}
+
+li {
+    font-size:small;
+}
